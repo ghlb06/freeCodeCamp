@@ -9,11 +9,11 @@ dashedName: introduction-flexbox-question-c
 
 Як не дивно, будь-який елемент може бути і гнучким контейнером, і гнучким предметом. Іншими словами, ви можете додати `display: flex` до гнучкого предмета, а потім використати flexbox, щоб розташувати його дочірні елементи.
 
-<img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/495704c6eb6bf33bc927534f231533a82b27b2ac/html_css/v2/foundations/flexbox/imgs/04.png" />
+<img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/495704c6eb6bf33bc927534f231533a82b27b2ac/html_css/v2/foundations/flexbox/imgs/04.png" alt="" />
 
 Створення та вкладання декількох гнучких контейнерів та предметів — це основний спосіб, яким ви будете створювати складні макети. Зображення нижче було створено виключно за допомогою flexbox, щоб розмістити, змінити розмір та розташувати різні елементи. Flexbox — це дуже потужний інструмент.
 
-<img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/495704c6eb6bf33bc927534f231533a82b27b2ac/html_css/v2/foundations/flexbox/imgs/05.png" />
+<img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/495704c6eb6bf33bc927534f231533a82b27b2ac/html_css/v2/foundations/flexbox/imgs/05.png" alt="" />
 
 
 # --question--
