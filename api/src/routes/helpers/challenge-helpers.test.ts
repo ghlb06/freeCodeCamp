@@ -76,6 +76,7 @@ describe('Challenge Helpers', () => {
 
   describe('verifyTrophyWithMicrosoft', () => {
     const userId = 'abc123';
+    const uuid ='test';
     const msUsername = 'ANRandom';
     const msTrophyId = 'learn.wwl.get-started-c-sharp-part-3.trophy';
     const verifyData = { msUsername, msTrophyId };
